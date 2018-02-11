@@ -1,0 +1,5 @@
+const example = () => {};
+
+export {
+  example
+};
